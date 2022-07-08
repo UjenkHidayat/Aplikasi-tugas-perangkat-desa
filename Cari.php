@@ -118,3 +118,4 @@ $No=0; //Variabel untuk menampilkan nomor urut barang di struk
 </form>
 
 tpppp
+ nambah
